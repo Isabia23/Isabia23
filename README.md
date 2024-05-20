@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas Vindas ao meu Perfil 🖤
 
-<!--
-**Isabia23/Isabia23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bianca Isabely 
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+-  Estou me desenvolvendo na Linguagem JavaScript
+-  Ultilizo esse espaço para minha organização e compartilhamento dos meus Projetos Desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📧
+
+biancaisabelly.2305@gmail.com
+
+Insta: ibiancaragao_
+
+![](https://media.tenor.com/vlpET0E9fl4AAAAi/bubududu-panda.gif)
